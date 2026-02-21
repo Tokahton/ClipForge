@@ -1,0 +1,7 @@
+yt-dlp>=2024.1.1
+moviepy>=1.0.3,<2.0
+openai-whisper>=20231117
+Pillow>=9.0.0
+numpy>=1.21.0
+imageio-ffmpeg>=0.4.7
+tiktok-uploader>=1.2.0
